@@ -1,0 +1,13 @@
+project_name: SKCT_727823TUCY033_LogAnalysis
+student: Pavithra
+roll_number: 727823TUCY033
+
+stages:
+  - name: Setup Lab
+    script: code/setup_lab.py
+
+  - name: Run Tool
+    script: code/run_tool.py
+
+  - name: Analyze Results
+    script: code/analyze_results.py
