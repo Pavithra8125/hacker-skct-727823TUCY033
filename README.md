@@ -10,7 +10,13 @@
 - Ubuntu Linux
 
 ## What This Tool Does
-(write 2 lines in your own words — you explained it perfectly earlier!)
+This Python-based SIEM (Security Information and Event Management) tool 
+analyzes SSH authentication logs to detect potential security threats in 
+real time. It identifies brute force attacks by counting failed login 
+attempts per IP address, detects username enumeration by tracking multiple 
+usernames attempted from a single IP, and flags unauthorized root access 
+attempts. Alerts are triggered when suspicious activity crosses a defined 
+threshold, helping system administrators respond to threats proactively.
 
 ## Setup Steps
 1. Run setup_lab.py
