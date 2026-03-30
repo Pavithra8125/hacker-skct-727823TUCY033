@@ -1,0 +1,8 @@
+Name: Pavithra M
+Roll Number: 727823TUCY033
+Project Name: SKCT_727823TUCY033_LogAnalysis
+Project Category: Log Analysis & SIEM
+GitHub URL: https://github.com/Pavithra8125/hacker-skct-727823TUCY033
+Total Commits: 6
+Tools Used: Python 3, Ubuntu Linux, Jupyter Notebook
+Tool Summary: A Python-based SIEM tool that detects brute force attacks, username enumeration, and root login attempts by analyzing SSH authentication log files.
